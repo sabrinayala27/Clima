@@ -3,7 +3,7 @@
 ## Proyect from bootcamp iOS Developer
 
 
-### Creamos una aplicación meteorológica habilitada para el modo oscuro. Tambien verificamos el clima para la ubicación actual en función de los datos GPS del iPhone, así como también buscando una ciudad manualmente.  :fa-cogs:
+### Creamos una aplicación meteorológica habilitada para el modo oscuro. Tambien verificamos el clima para la ubicación actual en función de los datos GPS del iPhone, así como también buscando una ciudad manualmente.  
 
 ------------
 
