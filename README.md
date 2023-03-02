@@ -71,8 +71,8 @@ Información sobre el patrón de delegado.
 
 
 ###### Utilizamos 
-##### //MARK: -  :fa-align-justify:
-Para una mejor lectura el codigo esta marcado por secciones.
+##### //MARK: -  
+Para una mejor lectura el código esta marcado por secciones.
 
 
 
