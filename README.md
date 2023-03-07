@@ -49,7 +49,7 @@ Aprender a usar Core Location para obtener la ubicación actual del GPS del tel�
 
 Cómo usar imágenes vectoriales como activos de imagen.
 
-Cómo crear una aplicación habilitada para el modo oscuro. :fa-adjust:
+Cómo crear una aplicación habilitada para el modo oscuro. 
 
 ------------
 
@@ -71,8 +71,8 @@ Información sobre el patrón de delegado.
 
 
 ###### Utilizamos 
-##### //MARK: -  
-Para una mejor lectura el código esta marcado por secciones.
+´ //MARK: -  ´
+Para una mejor lectura, el código esta marcado por secciónes.
 
 
 
